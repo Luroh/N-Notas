@@ -422,4 +422,6 @@ refresh_all()
 refresh_nivel_ui()
 nota_entry.focus_set()
 set_status("Listo. Todo se calcula automáticamente.", THEME["muted"])
+# == MAKE BY LUROH <3 ==
+
 app.mainloop()
